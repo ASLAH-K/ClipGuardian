@@ -1,0 +1,6 @@
+pyperclip
+pynput
+psutil
+requests
+pywin32
+winotify
